@@ -1,0 +1,1 @@
+This is the PClub Summer Project '24, Mastering Web 3.0 Assignment 1
