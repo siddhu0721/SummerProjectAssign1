@@ -1,11 +1,12 @@
 Block Header:
 {
   "version": 1,
+  "block_hash": "000034ae70d8120383ad07750c7e97fd35ed5fb36a76b06a6a335b9dcc66ebe7",
   "previous_block_hash": "0000000000000000000000000000000000000000000000000000000000000000",
   "merkle_root": "10d57f898f81239abae6481bdcdfcd63cb58c9aebac6775daa7ddf4dff99c78d",
-  "timestamp": 1716786955,
+  "timestamp": 1716827059,
   "difficulty_target": "0000ffff00000000000000000000000000000000000000000000000000000000",
-  "nonce": 17523
+  "nonce": 188007
 }
 
 Serialized Coinbase Transaction:
